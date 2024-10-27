@@ -39,10 +39,10 @@ Vandaag stond het volgende op de planning: een code / design review. Hiervoor mo
 Hier heb ik ze bij geholpen, door vragen te stellen als je terugkijkt naar je WCAG audit wat zijn dan dingen die belangrijk zijn om mee te nemen?
 Hier is het volgende lijstje van gemaakt:
 * class names een duidelijk beschrijving meegeven
-* outline/focus bij interactieve elementen (<a> <button>)
-* <ul> <ol> <menu> moeten een <li> bevatten
+* outline/focus bij interactieve elementen 
+* `ul` `ol` `menu` moeten een <li> bevatten
 * aria label
-* genoegg contrast tussen tekst en achtergrond
+* genoeg contrast tussen tekst en achtergrond
 
 Vervolgens zijn zij bij elkaar een code/design review gaan doen en hebben zij deze punten meegenomen om op te controleren.
 En ik heb erbij gezeten om vragen en onduidelijkheden te beantwoorden.
