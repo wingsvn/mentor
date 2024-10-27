@@ -1,8 +1,8 @@
-##mentoring
+## mentoring
 
 Welcome to the mentor wiki!
 
-#maandag 30.09.2024
+# maandag 30.09.2024
 Vandaag heb ik mijn eerste mentoring sessie gehad. De les ging over hoe je met behulp van verschillende CSS technieken bepaalde layouts kunt creëren. De 1e jaars studenten kregen hierbij een deeltaak met 9 layouts die ze mochten nabouwen, met CSS grid, flexbox, float, position etc..
 
 Ik zat niet met mijn hele mentor team, ik ben aan gaan schuiven aan een tafel waar nog geen andere mentor bij zat. Hier heb ik de 1e jaarsstudenten geholpen met algemene dingen als "hoe maak je een issue aan" tot aan stap voor stap door één zo'n opdracht heen gaan. 
