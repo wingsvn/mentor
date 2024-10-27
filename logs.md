@@ -1,8 +1,6 @@
-## mentoring
+# mentoring
 
-Welcome to the mentor wiki!
-
-# maandag 30.09.2024
+## maandag 30.09.2024
 Vandaag heb ik mijn eerste mentoring sessie gehad. De les ging over hoe je met behulp van verschillende CSS technieken bepaalde layouts kunt creëren. De 1e jaars studenten kregen hierbij een deeltaak met 9 layouts die ze mochten nabouwen, met CSS grid, flexbox, float, position etc..
 
 Ik zat niet met mijn hele mentor team, ik ben aan gaan schuiven aan een tafel waar nog geen andere mentor bij zat. Hier heb ik de 1e jaarsstudenten geholpen met algemene dingen als "hoe maak je een issue aan" tot aan stap voor stap door één zo'n opdracht heen gaan. 
@@ -27,7 +25,7 @@ namelijk met 2 kolommen ipv 3. Ze hadden daarna gelijk door hoe ze dat konden aa
 https://github.com/halima98/layout-in-css/issues/1
 https://github.com/halima98/layout-in-css/issues/2
 
-# woensdag 9 oktober
+## woensdag 9 oktober
 Vandaag was de 2e mentor sessie. Op de planning stond voor de 1e jaars de wrap-up met het schrijven van een readMe en het voorbereiden op de sprintreview.
 Ik heb geholpen met de sprint review voorbereiden en issues ingeschoten met feedback op de readMe's van 1e jaarsstudenten.
 
@@ -36,7 +34,7 @@ ingeschoten issues:
 * https://github.com/kimnikitaschijf/the-client-website/issues/17
 * https://github.com/DivaniNL/red-pers/issues/14
 
-# vrijdag 18 oktober
+## vrijdag 18 oktober
 Vandaag stond het volgende op de planning: een code / design review. Hiervoor moesten de 1e jaarsstudenten eerst nog even nadenken over 5 extra criteria's waar op gelet kan worden tijdens een accessibility review.
 Hier heb ik ze bij geholpen, door vragen te stellen als je terugkijkt naar je WCAG audit wat zijn dan dingen die belangrijk zijn om mee te nemen?
 Hier is het volgende lijstje van gemaakt:
