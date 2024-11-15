@@ -49,4 +49,8 @@ En ik heb erbij gezeten om vragen en onduidelijkheden te beantwoorden.
 
 Als laatst ben ik met andere mentoren samen aan tafel gaan zitten en konden 1e jaarsstudenten naar ons toekomen om feedback te vragen op hun design en evt. code.
 
+## maandag 11 nov 2024
+Ik zat aan tafel met Julia, Viresh en Robin. Vandaag kregen de 1e jaars een sprintplanning en een workshop styleguide. Ze hebben eerst een nieuwe projectboard aangemaakt en de issues van de vorige repo overgezet naar de nieuwe, daarnaast hebben ze een sitemap en wireframe gemaakt. Ik heb hierbij feedback gegeven over het nummeren van de pagina’s in de sitemap en het netjes maken van de schetsen (nette lijnen, die niet uitlopen). Daarna hebben we gekeken naar de huisstijl van transavia en geanalyseerd welke uitingen transavia heeft en wat transavia herkenbaar maakt. Vervolgens zijn zij zelf aan de slag gegaan met het analyseren van de elementen van hun eigen website/huisstijl, zodat ze in het vervolg hiervan een styleguide kunnen maken.
+Ik heb tussendoor nog een aantal korte vragen beantwoord over evt. onduidelijkheden hoe styleguides werken.
+
 
