@@ -54,3 +54,18 @@ Ik zat aan tafel met Julia, Viresh en Robin. Vandaag kregen de 1e jaars een spri
 Ik heb tussendoor nog een aantal korte vragen beantwoord over evt. onduidelijkheden hoe styleguides werken.
 
 
+## woensdag 20 nov 2024 input types
+Vandaag ging de les over formulieren, input types en hun attributes. De 1e jaarsstudenten moesten in een groepje onderzoek doen naar de verschillende <input> types. Daarna moest elke student 4 input types bouwen. Ik heb hierbij geprobeerd hun tips te geven, bijv. niet '<search>', maar input `type="search"`. Daar was namelijk wat verwarring over.
+
+
+## vrijdag 29 nov 2024 connecting assignees
+Vandaag stond de retrospect op de planning voor de 1e jaars. Zij moesten terugkijken naar de samenwerkkng binnen hun groepjes door een overzicht te maken van hun issues en welke daarvan zijn gesloten, welke nog open staan en wie de issue heeft opgelost. Vervolgens moesten ze als groep hierop reflecteren. Waar ging het goed, Waar ging het mis en wat kan volgende keer beter als groep. Hierbij heb ik ze begeleid.
+
+
+## vrijdag 06 dec 2024 code / design review
+Op de planning van de 1e jaars stond een code/design review. Ik zat aan tafel bij groepen 4 & 5. Zij mochten bij andere klasgenoten issues inschieten over de javascript en over het design qua feedback en feedforward op de interactieve element dat is gebouwd met javascript. Dit aan de hand van de volgende lijst: https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/code-design-review-programming-user-interaction.md
+Ik heb hierbij feedback gegeven over hoe ze de issues duidelijker kunnen beschrijven.
+
+
+
+
