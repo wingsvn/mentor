@@ -55,7 +55,7 @@ Ik heb tussendoor nog een aantal korte vragen beantwoord over evt. onduidelijkhe
 
 
 ## woensdag 20 nov 2024 input types
-Vandaag ging de les over formulieren, input types en hun attributes. De 1e jaarsstudenten moesten in een groepje onderzoek doen naar de verschillende <input> types. Daarna moest elke student 4 input types bouwen. Ik heb hierbij geprobeerd hun tips te geven, bijv. niet '<search>', maar input `type="search"`. Daar was namelijk wat verwarring over.
+Vandaag ging de les over formulieren, input types en hun attributes. De 1e jaarsstudenten moesten in een groepje onderzoek doen naar de verschillende <input> types. Daarna moest elke student 4 input types bouwen. Ik heb hierbij geprobeerd hun tips te geven, bijv. niet 'search' tag , maar input `type="search"`. Daar was namelijk wat verwarring over.
 
 
 ## vrijdag 29 nov 2024 connecting assignees
